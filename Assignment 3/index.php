@@ -7,13 +7,13 @@
     // string 
     echo $name;
     echo "<br>";
-    //  constantk
+    //  constant
     echo name;
     echo "<br>";
     // num 50
     echo $num;
     echo "<br>";
-    // num float 505 
+    // num float 5.5 
     echo $float;
     echo "<br>";
     // bool true
